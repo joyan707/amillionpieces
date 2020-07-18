@@ -24,10 +24,10 @@ baseurl: /amillionpieces
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: 
+avatar: https://avatars2.githubusercontent.com/u/68427248?s=400&u=3ffec01d34d81ed16ca02b4a368e40b86ca38588&v=4
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: 
+favicon: https://avatars2.githubusercontent.com/u/68427248?s=400&u=3ffec01d34d81ed16ca02b4a368e40b86ca38588&v=4
 
 
 # 菜单中的按钮
